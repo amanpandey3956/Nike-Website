@@ -1,4 +1,4 @@
-# Nike Website Clone
+# Nike Website
 
 This is a responsive website clone inspired by Nike's official site, built using React and styled with Tailwind CSS. The project showcases various components such as product listings, a navigation bar, and a footer, providing an immersive shopping experience.
 
@@ -33,7 +33,7 @@ This is a responsive website clone inspired by Nike's official site, built using
 
 3. Install the dependencies: `npm install`.
 
-4. Start the development server, run: `npm start`.
+4. Start the development server, run: `npm run dev`.
 
 This will launch the application in your default web browser at [http://localhost:5173](http://localhost:5173/).
 
